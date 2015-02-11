@@ -27,6 +27,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>0DAFF790CFE457CF03A1CA90</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>3AECF16D541C2073BC67CBF9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>19C28FACFE9D520D11CA2CBB</key>
 		<dict>
 			<key>children</key>
@@ -176,7 +189,7 @@
 		<key>1D6058940D05DD3E006BFB54</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>A0667BBC457D4307AC51AC26</string>
+			<string>3AECF16D541C2073BC67CBF9</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -464,7 +477,7 @@
 				<string>22473B9A133800DC00F497E6</string>
 				<string>29B97323FDCFA39411CA2CEA</string>
 				<string>19C28FACFE9D520D11CA2CBB</string>
-				<string>A0667BBC457D4307AC51AC26</string>
+				<string>0DAFF790CFE457CF03A1CA90</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -530,6 +543,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>3AECF16D541C2073BC67CBF9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods.debug.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods/Pods.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>4CEE75F78DE5435AB64181CD</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -549,7 +577,7 @@
 			<key>shellPath</key>
 			<string>/bin/sh</string>
 			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Pods-resources.sh"
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh"
 </string>
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
@@ -586,21 +614,6 @@
 			<string>SVWeb-Info.plist</string>
 			<key>plistStructureDefinitionIdentifier</key>
 			<string>com.apple.xcode.plist.structure-definition.iphone.info-plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A0667BBC457D4307AC51AC26</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Pods.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>

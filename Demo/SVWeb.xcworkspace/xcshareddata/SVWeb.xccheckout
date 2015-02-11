@@ -10,29 +10,29 @@
 	<string>SVWeb</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>096512C9-BDD9-46BE-A961-EFE6E1D08FBB</key>
+		<key>00DEE37500E6C7998F4D113C875F3996AE26D5BE</key>
 		<string>https://github.com/pilot34/SVWebViewController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Demo/SVWeb.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>096512C9-BDD9-46BE-A961-EFE6E1D08FBB</key>
+		<key>00DEE37500E6C7998F4D113C875F3996AE26D5BE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/pilot34/SVWebViewController.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>096512C9-BDD9-46BE-A961-EFE6E1D08FBB</string>
+	<string>00DEE37500E6C7998F4D113C875F3996AE26D5BE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>096512C9-BDD9-46BE-A961-EFE6E1D08FBB</string>
+			<string>00DEE37500E6C7998F4D113C875F3996AE26D5BE</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SVWebViewController</string>
 		</dict>
